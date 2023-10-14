@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/TheoLaperrouse/TemplateViteVue3/compare/v1.0.0...v1.1.0) (2023-10-14)
+
+
+### Features
+
+* Add FontAwesome ([a16411a](https://github.com/TheoLaperrouse/TemplateViteVue3/commit/a16411a3b4d828035e3a235d2ad3b8e0e283b26b))
+
 # 1.0.0 (2023-10-10)
 
 
