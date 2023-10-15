@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/TheoLaperrouse/TemplateViteVue3/compare/v1.1.0...v1.1.1) (2023-10-15)
+
+
+### Bug Fixes
+
+* Add a nginx docker image ([60ebabe](https://github.com/TheoLaperrouse/TemplateViteVue3/commit/60ebabe2b051aa30b42e517e973488f07ca2629d))
+
 # [1.1.0](https://github.com/TheoLaperrouse/TemplateViteVue3/compare/v1.0.0...v1.1.0) (2023-10-14)
 
 
